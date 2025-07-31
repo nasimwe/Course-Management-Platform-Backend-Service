@@ -442,7 +442,7 @@ git commit -m "test: add unit tests for User model"
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License
 
 
 
