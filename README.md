@@ -264,7 +264,7 @@ GET /api/dashboard/manager-stats
    - Critical deadlines
    - Unassigned courses
 
-## 🧪 Testing
+## Testing
 
 ### Run Tests
 ```bash
@@ -299,7 +299,7 @@ __tests__/
    - Link [My Reflections](https://nasimwe.github.io/i18n/)
 
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables
 
@@ -415,22 +415,6 @@ GET /api/dashboard/notifications // Recent notifications
    npm test
    ```
 6. **Submit pull request**
-
-### Code Style
-
-- **ESLint**: Configured for Node.js best practices
-- **Prettier**: Automatic code formatting
-- **Naming**: camelCase for variables, PascalCase for classes
-- **Comments**: JSDoc for functions and classes
-
-### Commit Convention
-
-```bash
-git commit -m "feat: add user authentication system"
-git commit -m "fix: resolve database connection issue"
-git commit -m "docs: update API documentation"
-git commit -m "test: add unit tests for User model"
-```
 
 
 
