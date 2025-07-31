@@ -444,13 +444,7 @@ git commit -m "test: add unit tests for User model"
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
 
-- **Express.js** - Fast, unopinionated web framework
-- **Sequelize** - Promise-based ORM for Node.js
-- **Redis** - In-memory data structure store
-- **Jest** - Testing framework
-- **Swagger** - API documentation
 
 
 
