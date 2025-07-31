@@ -2,7 +2,7 @@
 
 A comprehensive backend system for academic institutions to manage course allocations, track facilitator activities, and streamline academic coordination. Built with Node.js, Express, MySQL, and Redis with full internationalization support.
 
-## 🌟 Features
+## Features
 
 ### Core Modules
 
@@ -35,7 +35,7 @@ A comprehensive backend system for academic institutions to manage course alloca
 - **Security**: Input validation, SQL injection prevention, rate limiting
 - **Internationalization**: Multi-language support in reflection page
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -83,7 +83,7 @@ A comprehensive backend system for academic institutions to manage course alloca
    - Documentation: http://localhost:3000/api-docs
    - Health Check: http://localhost:3000/health
 
-## 📊 Database Schema
+##  Database Schema
 
 ### Core Entities
 
@@ -118,7 +118,7 @@ CourseOffering → ActivityTracker (weekly logs)
 Facilitator → ActivityTracker (ownership)
 ```
 
-## 🔐 Authentication Flow
+## Authentication Flow
 
 ### Registration
 ```javascript
@@ -164,7 +164,7 @@ Headers: {
 }
 ```
 
-## 📚 API Documentation
+##  API Documentation
 
 ### Course Allocations
 
@@ -236,7 +236,7 @@ GET /api/dashboard/facilitator-stats
 GET /api/dashboard/manager-stats
 ```
 
-## 🔔 Notification System
+## Notification System
 
 ### Redis Queue Architecture
 
@@ -292,7 +292,7 @@ __tests__/
 - **ActivityTracker Model**: Business logic, progress tracking
 - **AuthService**: Registration, login, token management
 
-## 🌍 Internationalization (i18n)
+##  Internationalization (i18n)
 
 ### Student Reflection Page
 
@@ -353,7 +353,7 @@ module.exports = {
 };
 ```
 
-## 📈 Performance & Monitoring
+##  Performance & Monitoring
 
 ### Built-in Features
 
@@ -371,7 +371,7 @@ GET /api/dashboard/stats      // System statistics
 GET /api/dashboard/notifications // Recent notifications
 ```
 
-## 🚀 Deployment
+##  Deployment
 
 ### Production Checklist
 
@@ -399,7 +399,7 @@ GET /api/dashboard/notifications // Recent notifications
    - Set up database indexing
 
 
-## 🤝 Contributing
+##  Contributing
 
 ### Development Workflow
 
@@ -434,9 +434,15 @@ git commit -m "test: add unit tests for User model"
 
 
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License
+
+## **Video Demonstration**
+
+Watch the full demo showing how to use the Course Management Platform:
+
+[Video Recording](https://youtu.be/wmSsc2Vu92U))
 
 
 
