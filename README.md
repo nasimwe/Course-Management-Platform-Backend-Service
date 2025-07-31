@@ -57,25 +57,19 @@ A comprehensive backend system for academic institutions to manage course alloca
    npm install
    ```
 
-3. **Set up environment variables**
-   ```bash
-   cp .env.example .env
-   # Edit .env with your configuration
-   ```
-
-4. **Create database**
+3. **Create database**
    ```sql
    CREATE DATABASE course_management_dev;
    CREATE DATABASE course_management_test;
    ```
 
-5. **Run database migrations and seed data**
+4. **Run database migrations and seed data**
    ```bash
    npm run migrate
    npm run seed
    ```
 
-6. **Start the server**
+5. **Start the server**
    ```bash
    # Development mode
    npm run dev
@@ -84,7 +78,7 @@ A comprehensive backend system for academic institutions to manage course alloca
    npm start
    ```
 
-7. **Access the application**
+6. **Access the application**
    - API: http://localhost:3000
    - Documentation: http://localhost:3000/api-docs
    - Health Check: http://localhost:3000/health
