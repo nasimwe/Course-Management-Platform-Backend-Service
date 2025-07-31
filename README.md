@@ -452,11 +452,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Jest** - Testing framework
 - **Swagger** - API documentation
 
-## 📞 Support
 
-For support and questions:
-
-- **Documentation**: Check this README and API docs
-- **Issues**: Open a GitHub issue
-- **Email**: support@coursemanagement.com
 
